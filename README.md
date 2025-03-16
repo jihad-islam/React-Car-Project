@@ -45,23 +45,8 @@ To run this project locally, follow these steps:
 
 ![React Dev Tools](./src/assets/component.png)
 
-## 🚀 Live Demo
+## 🚀 Deployment and Github Repository Link
 
-[Click here to visit the deployed app](#)  
-(Replace `#` with the actual deployment link after deployment)
-
-## 🛠 Tech Stack
-
-- React
-- TailwindCSS
-
-## 🚀 Deployment
-
-The project is deployed on **Netlify/Vercel/Render**.
-
-[Click here to visit the deployed app](https://react-car-project-gamma.vercel.app/)  
-(Replace `#` with the actual deployment link)
-
-## 🔗 GitHub Repository
+The project is deployed on [Vercel](https://react-car-project-gamma.vercel.app/).
 
 [GitHub Repository](https://github.com/jihad-islam/React-Car-Project.git)
